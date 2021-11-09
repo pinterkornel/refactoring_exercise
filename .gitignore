@@ -1,0 +1,19 @@
+/vendor/
+# Composer PHAR
+/composer.phar
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+# Other
+.env
+
+.idea/
+/.ignore
+/.vscode
+
+###> symfony/phpunit-bridge ###
+.phpunit.result.cache
+###< symfony/phpunit-bridge ###
+
